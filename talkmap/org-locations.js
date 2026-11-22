@@ -10,9 +10,9 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Patterns and Contrasts: Comparing the Evolution of Minority Representation in Broadsheets Over Two Decades<br />Vancouver Convention Center; Vancouver, Canada",
+    49.2608724,
+    -123.113952
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
