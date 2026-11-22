@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "The Shifting Boundaries of Inclusion, Portrayals of Minoritized groups in Germany and Poland<br />Technische Universit\u00e4t M\u00fcnchen; Munich, Germany",
+    48.1371079,
+    11.5753822
+  ],
+  [
     "Patterns and Contrasts: Comparing the Evolution of Minority Representation in Broadsheets Over Two Decades<br />Aristotle University Thessaloniki; Thessaloniki, Greece",
     40.6403167,
     22.9352716
