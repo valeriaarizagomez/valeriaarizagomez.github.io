@@ -17,4 +17,13 @@ Research interests: Media representation · Political communication · Minoritiz
 
 Methods: Computational text analysis · Topic modelling · Stance analysis · Critical Discourse Approaches
 
+## Where I have presented my research
 
+<iframe
+  src="{{ '/talkmap/map.html' | relative_url }}"
+  title="Map of my conference presentations"
+  width="100%"
+  height="500"
+  style="border: none;"
+  loading="lazy">
+</iframe>
