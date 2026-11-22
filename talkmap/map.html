@@ -196,20 +196,6 @@
       });
     }
 
-    var note = L.control({ position: "bottomleft" });
-
-    note.onAdd = function () {
-      var box = L.DomUtil.create("div", "map-note");
-
-      box.innerHTML =
-        "<strong>Research on the move</strong>" +
-        "Click a marker to explore a presentation. " +
-        "Click a numbered circle to explore nearby talks.";
-
-      L.DomEvent.disableClickPropagation(box);
-      return box;
-    };
-
     note.addTo(map);
   </script>
 </body>
