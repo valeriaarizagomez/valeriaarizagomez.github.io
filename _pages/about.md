@@ -18,15 +18,17 @@ Research interests: Media representation · Political communication · Minoritiz
 Methods: Computational text analysis · Topic modelling · Stance analysis · Critical Discourse Approaches
 
 ## Where I have presented my research
+
 <p style="color: #687582; font-size: 0.95em;">
-  Explore Conference Presentations.
+  Explore my conference presentations.
 </p>
+
 <iframe
   src="{{ '/talkmap/map.html' | relative_url }}"
   title="Map of my conference presentations"
   width="100%"
   height="500"
-  style="border: none;"
+  style="border: none; border-radius: 12px;"
   loading="lazy">
 </iframe>
 
