@@ -28,14 +28,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student and research associate at TUM department of Science, Technology and Society"
   location         : "Munich"
-  employer         : "Technische Universtät München"
+  employer         : "Technische Universität München"
   uri              : # URL
   email            : "valeria.ariza@tum.de" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ##
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-8438-7858"
