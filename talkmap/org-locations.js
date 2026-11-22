@@ -5,9 +5,9 @@ var addressPoints = [
     22.9352716
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "The Shifting Boundaries of Inclusion: A Comparative Analysis of Minoritized Groups Portrayal in German and Polish media.<br />Universit\u00e4t Innsbruck; Innsbruck, Austria",
+    47.2654296,
+    11.3927685
   ],
   [
     "Patterns and Contrasts: Comparing the Evolution of Minority Representation in Broadsheets Over Two Decades<br />Vancouver Convention Center; Vancouver, Canada",
