@@ -15,8 +15,8 @@ var addressPoints = [
     -123.113952
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536923,
-    -118.2427676
+    "Patterns and Contrasts: Comparing the Evolution of Minority and dominant group Representation in Broadsheets<br />Universit\u00e4t Erfurt; Erfurt, Germany",
+    50.9777974,
+    11.0287364
   ]
 ];
